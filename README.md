@@ -27,3 +27,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## Author
+
+Jadilson Guedes <jadilson12@gmail.com>  
+License MIT <https://jadilson12.mit-license.org/>
